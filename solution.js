@@ -6,9 +6,9 @@ console.log(parkWalkStr.substring(18, 22));
 
 // Exercise Two
 
-const hellostr = "Hello World";
+const helloStr = "Hello World";
 
-console.log(hellostr.toUpperCase(""));
+console.log(helloStr.toUpperCase(""));
 
 // Exercise Three
 
